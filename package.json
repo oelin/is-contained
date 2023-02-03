@@ -1,7 +1,8 @@
 {
   "name": "is-contained",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Check whether one or more values are contained within an interval.",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
