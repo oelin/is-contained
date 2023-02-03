@@ -1,6 +1,6 @@
 {
   "name": "is-contained",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Check whether one or more values are contained within an interval.",
   "main": "index.js",
   "scripts": {
